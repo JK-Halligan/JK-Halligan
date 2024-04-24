@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @JK-Halligan
-- 👀 I’m interested in Business, Investing & Website Application Development.
-
-- Currently Learning 
-  - Python
-
-- Prior Experience
-  - HTML
+- Currently Learning 📖
+  - Python 🐍
+- Prior Experience 
+  - HTML 
   - CSS
-  - Javascript
-
+  - Javascript 
 
 <!---
 JK-Halligan/JK-Halligan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
