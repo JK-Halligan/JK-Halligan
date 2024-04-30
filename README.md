@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JK from the UK.
 
-- Currently Learning 📖
+- Currently Learning
   - Python 🐍
 
 - Prior Experience Using
