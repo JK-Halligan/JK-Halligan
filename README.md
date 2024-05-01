@@ -1,9 +1,9 @@
 - 👋 Hi, I’m JK from the UK.
 
-- Currently Learning
+- I am currently learning:
   - Python 🐍
 
-- Prior Experience Using
+- I have prior experience using:
   - HTML 
   - CSS
   - Javascript 
