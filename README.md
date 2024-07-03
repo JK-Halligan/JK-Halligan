@@ -1,12 +1,12 @@
 - 👋 Hi, I’m JK from the UK.
 
 - I am currently learning:
-  - Python 🐍
+  - Javascript
 
 - I have prior experience using:
   - HTML 
   - CSS
-  - Javascript 
+  - Python 🐍
 
 I am currently building the front-end development of my new web application and more!
 
