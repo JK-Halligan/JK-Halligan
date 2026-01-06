@@ -1,14 +1,4 @@
-- 👋 Hi, I’m JK from the UK.
-
-- I am currently learning:
-  - Javascript
-
-- I have prior experience using:
-  - HTML 
-  - CSS
-  - Python 🐍
-
-I am currently building the front-end of my new web application and more!
+Building IOS Apps
 
 <!---
 JK-Halligan/JK-Halligan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
